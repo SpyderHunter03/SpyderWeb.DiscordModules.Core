@@ -2,3 +2,8 @@ C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModul
 C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModules.Core\obj\Debug\netstandard2.0\SpyderWeb.DiscordModules.Core.csproj.CoreCompileInputs.cache
 C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModules.Core\obj\Debug\netstandard2.0\SpyderWeb.DiscordModules.Core.AssemblyInfoInputs.cache
 C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModules.Core\obj\Debug\netstandard2.0\SpyderWeb.DiscordModules.Core.AssemblyInfo.cs
+C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModules.Core\bin\Debug\netstandard2.0\SpyderWeb.DiscordModules.Core.deps.json
+C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModules.Core\bin\Debug\netstandard2.0\SpyderWeb.DiscordModules.Core.dll
+C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModules.Core\bin\Debug\netstandard2.0\SpyderWeb.DiscordModules.Core.pdb
+C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModules.Core\obj\Debug\netstandard2.0\SpyderWeb.DiscordModules.Core.dll
+C:\Users\spyde\source\repos\SpyderWeb.DiscordModules.Core\SpyderWeb.DiscordModules.Core\obj\Debug\netstandard2.0\SpyderWeb.DiscordModules.Core.pdb

@@ -1,11 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>SpyderWeb.DiscordModules.Core</PackageId>
+    <Version>0.0.3</Version>
+    <Title>SpyderWeb.DiscordModules.Core</Title>
+    <Authors>SpyderHunter03</Authors>
+    <Description>This package is for use with the SpyderWeb Twitch/Discord Bot.  It is intended to be used to create your own module with and add them to the Bot.</Description>
+    <PackageTags>Discord;Bot;SpyderWeb</PackageTags>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Discord.Net" Version="2.0.1" />
+    <PackageReference Include="SpyderWeb.EmojiService" Version="0.0.1" />
   </ItemGroup>
 
 </Project>
